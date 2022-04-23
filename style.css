@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+
+body{
+    background-image: url(red-wine-g899ce137a_1920.jpg);
+    background-repeat: no-repeat;
+   background-size: auto;
+}
+
+.logo{
+    margin-top: 0px;
+    padding: 0px;
+    width: 500px;
+    height: 250px;
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+    color: white;
+    font-size: 25px;
+}
+
+.conteudo {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+li{
+    display: inline-block;
+    margin: 20px;
+}
+
+.texto {
+    text-align: left;
+    display: flex;
+    font-size: 15px;
+    flex-direction: column;
+    text-align: justify;
+    line-height: 35px;
+    max-width: 500px;
+    color: #F5F5DC ;
+}
+
+
+.titulo{
+    color: #A52A2A;
+    font-size: 35px;
+}
+
+
+
+input{
+    margin-top: 15px;
+    height: 20px;
+    width: 250px;
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    font-size: 15px;
+}
+
+input:hover {
+    box-shadow:
+                1px 1px #490808,
+                2px 2px #490808,
+                3px 3px #490808;
+        -webkit-transform: translateX(-3px);
+        transform: translateX(-3px);
+}
+
+.boton{
+    border: 2px solid  #e4cfcf;
+    margin-top: 15px;
+    margin-left:50px;
+    padding: 5px;
+    border-radius: 15px;
+    width: 400px;
+    height: 50px;
+    font-size: 30px;
+      }
+    
+     
+     .boton:hover {
+        background-color: #490808;
+        color: white;
+    }
+   
+    .conteudo_secundario {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 48px;
+    }
+
+    .titulo_secundario {
+        border-top: 0.4px solid #fff2e7;
+        padding-top: 48px;
+        font-family: 'Righetous', cursive;
+        font-weight: 400;
+        font-size: 24px;
+        color: #fff2ef;
+        margin-bottom: 16px;
+    }
+
+    .paragrafo {
+        font-family: 'Sarala' sans-serif;
+        font-weight: 300;
+        font-size: 18px;
+        color: #ecd6c4
+    }
+
+    footer{
+        margin: auto;
+    }
+
+    li{
+        display: inline-block;
+        margin: 20px;
+        border: solid white 5px;
+        border-radius: 10px;
+        padding: 15px;
+    }
+  
+    a{
+  color: white;
+    }
+
+    li:hover{
+        background-color: #490808;
+        color: white;
+        transition: 0.3s all;
+    }
