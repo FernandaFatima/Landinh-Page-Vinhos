@@ -31,7 +31,7 @@ Acesse a landing page diretamente no navegador:
 ## 📸 Captura de Tela
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Cabernet+Wine+House+Landing+Page" alt="Landing Page Screenshot" width="80%"/>
+  <img src="assets/landingpage-screenshot.png" alt="Cabernet Wine House Screenshot" width="80%"/>
 </p>
 
 ---
