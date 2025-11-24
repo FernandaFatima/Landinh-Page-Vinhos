@@ -1,4 +1,4 @@
-# 🍷 Cabernet Wine House - Landing Page
+# 🍷 Cabernet Wine House Landing Page
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0D15&height=200&section=header&text=Cabernet%20Wine%20House&fontSize=45&fontColor=ffffff&animation=twinkling&descAlignY=60&desc=Landing%20Page%20de%20Vinhos"/>
