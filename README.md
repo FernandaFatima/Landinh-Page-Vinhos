@@ -28,14 +28,6 @@ Acesse a landing page diretamente no navegador:
 
 ---
 
-## 📸 Captura de Tela
-
-<p align="center">
-  <img src="assets/landingpage-screenshot.png" alt="Cabernet Wine House Screenshot" width="80%"/>
-</p>
-
----
-
 ## 📝 Próximos Passos
 - Melhorias na interatividade da barra de busca  
 - Integração com formulários funcionais para reservas  
