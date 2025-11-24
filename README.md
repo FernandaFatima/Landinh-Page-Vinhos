@@ -36,16 +36,6 @@ Acesse a landing page diretamente no navegador:
 
 ---
 
-## 🤝 Contribuição
-Contribuições são bem-vindas!  
-- Fork o projeto  
-- Crie sua branch (`git checkout -b feature/nome-da-feature`)  
-- Commit suas alterações (`git commit -m 'Add nova feature'`)  
-- Push para sua branch (`git push origin feature/nome-da-feature`)  
-- Abra um Pull Request 🚀  
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0D15&height=100&section=footer&text=Cabernet%20Wine%20House&fontSize=25&fontColor=ffffff"/>
 </p>
